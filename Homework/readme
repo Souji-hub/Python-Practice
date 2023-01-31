@@ -1,0 +1,4 @@
+#write a python class to connect to db in different folder, create a model/dictionary of user.
+#  INSERT USER DATA TO DATAbase, retrieve the data from database using same user model class
+
+# assign to it and display the op in console
